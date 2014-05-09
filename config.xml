@@ -16,5 +16,7 @@
     <author href="http://www.jusmisiones.gov.ar" email="lfojeda@jusmisiones.gov.ar">
         Luis Fernando Ojeda
     </author>
+    <gap:plugin name="org.apache.cordova.geolocation" version="0.3.6" />
+    <gap:plugin name="tr.bel.mamak.sms_plagin" version="0.1.0" />
 
 </widget>
